@@ -7,7 +7,7 @@
 
 
 <p align="center">
-    <br/><br/><a href="https://www.linkedin.com/in/👽" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" /></a>
+    <br/><br/><a href="https://www.linkedin.com/in/👽](https://www.linkedin.com/in/matos-carlo-marcelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" /></a>
     <a href="https://www.instagram.com/marfalling.ds3/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0A0A0B?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram Badge" /></a>
 
 <!------------------------------------------------------------------------------------------>
